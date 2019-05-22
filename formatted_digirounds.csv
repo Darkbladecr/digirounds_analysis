@@ -1,0 +1,16 @@
+week,day,time,patients,time per patient,new patients,prescribing,microbiology,radiology_interpretation,radiology_results,eDocs,relogins,battery
+week 1,Monday,90,5,18.0,0,3,0,1,1,1,1,1
+week 1,Tuesday,173,8,21.625,2,1,1,1,1,1,0,0
+week 1,Wednesday,166,8,20.75,3,3,0,1,1,1,3,0
+week 1,Thursday,162,9,18.0,2,2,0,1,1,1,2,0
+week 1,Friday,148,9,16.444444444444443,1,2,1,0,0,0,1,0
+week 2,Monday,167,10,16.7,3,3,2,1,1,0,2,0
+week 2,Tuesday,145,8,18.125,0,2,0,0,2,0,0,0
+week 2,Wednesday,124,8,15.5,3,3,0,2,2,1,2,0
+week 2,Thursday,165,10,16.5,2,1,1,0,1,1,2,0
+week 2,Friday,150,11,13.636363636363637,1,2,1,0,0,1,1,0
+week 3,Monday,106,12,8.833333333333334,2,0,1,2,1,2,0,0
+week 3,Tuesday,98,13,7.538461538461538,1,1,1,2,1,1,0,0
+week 3,Wednesday,95,14,6.785714285714286,1,3,0,2,1,1,1,0
+week 3,Thursday,91,7,13.0,2,3,1,0,1,1,1,0
+week 3,Friday,98,10,9.8,3,3,0,2,0,1,1,0
